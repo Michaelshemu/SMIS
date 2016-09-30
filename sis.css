@@ -1,0 +1,32 @@
+
+#container{
+    
+    width:80%;
+    margin: 0px auto 0px;
+    padding: 0px;
+    height:100%;
+}
+#top_header{
+    background:#44577E;
+}
+main_section{
+   background: white; 
+}
+#footer{
+    background: gray;
+    height: 20%;
+    color:white;
+}
+#welcome{
+    text-align: center;
+    color: white;
+}
+#navigation{
+    
+    display: inline-block;
+    display: inline-table;
+}
+#navigation a{
+  color: white;
+    font-size: 20px;
+}
